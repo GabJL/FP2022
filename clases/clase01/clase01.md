@@ -73,7 +73,7 @@ Versión avanzada usando variables para evitar repetir un valor y que sea más s
 
 [Ver Código](t1e2a.py)
 
-Puede encontrar una explicación en el siguiente [vídeo](https://drive.google.com/file/d/1P3bCPyyhSbcXakGDfP9aREf0nd7l0B1n/view?usp=sharing) (también puede encontrar una versión avanzada usando bucles en este [vídeo](https://drive.google.com/file/d/1P3bCPyyhSbcXakGDfP9aREf0nd7l0B1n/view?usp=sharing)).
+Puede encontrar una explicación en el siguiente [vídeo](https://drive.google.com/file/d/1P3bCPyyhSbcXakGDfP9aREf0nd7l0B1n/view?usp=sharing) (también puede encontrar una versión avanzada usando bucles en este [vídeo](https://drive.google.com/file/d/1ctVIrjOlmCHxr6gybAtktecMyeczDZVG/view?usp=sharing)).
 
 Versión avanzada usando adicionalmente bucles.
 
