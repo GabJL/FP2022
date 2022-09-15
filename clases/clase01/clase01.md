@@ -85,10 +85,13 @@ Para dibujar un pentágono hay que cambiar el lado, el ángulo y repetir una vez
 
 [Ver Código](t1e3.py)
 
+La solución anterior es sin bucles. La solución con bucle sería igual que la [última del ejercicio previo]((t1e2b.py)) pero cambiando la variable `número_lados` a 5.
+
 ## Ejercicio 4: robot-tortuga (en Python): Espiral
 
-Aquí el ángulo vuelve a ser 90, pero el valor del tamaño del lado hay que cambiarlo cada cierto tiempo.
+Aquí el ángulo vuelve a ser 90, pero el valor del tamaño del lado hay que cambiarlo cada cierto tiempo. Observe que para evitar usar valores fijos podemos hacer cosas como `lado = lado + 50` (esto le suma a `lado` 50 unidades).
 
 [Ver Código](t1e4.py)
 
+La variante con bucles en este caso es un poco diferente a las anteriores porque ahora la parte que se repite debe abarcar más instrucciones (hasta cambiar de lado)
 

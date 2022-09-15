@@ -1,11 +1,11 @@
-# Ejercicio 2 del Tema 1
-# Este programa dibuja un cuadrado de lado 80 usando "turtle"
+# Ejercicio 3 del Tema 1
+# Este programa dibuja un pentágono de lado 80 usando "turtle"
 
 # Importamos el módulo "turtle" para poder usar sus operaciones
 from turtle import *
 
 # Variables / Constantes
-número_lados: int = 4 # Cantidad de lados de la figura (valor entero)
+número_lados: int = 5 # Cantidad de lados de la figura (valor entero)
 lado: float = 80 # longitud de cada lado (valor real)
 ángulo: float = 360 / número_lados # giro que hay que hacer tras cada lado (valor real)
 
@@ -21,4 +21,8 @@ forward(lado)
 left(ángulo)
 
 forward(lado)
-left(ángulo) # El último giro no es necesario pero no pasa nada si lo hacemos
+left(ángulo)
+
+# Añadimos el quinto lado
+forward(lado)
+left(ángulo)
