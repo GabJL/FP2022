@@ -59,7 +59,7 @@ Similar al ejercicio anterior pero ahora con las instrucciones que nos ofrece Py
 * `forward(X)`: avanza y dibuja la tortuga X metros
 * `left(X)\right(Y)`: gira a la izquierda\derecha Y ángulos
 
-En este caso es prácticamente es convertir linea a línea la solución 1 a las instrucciones concretas que facilita el lenguaje. 
+En este caso es prácticamente es convertir linea a línea la solución 1 a las instrucciones concretas que facilita el lenguaje (de nuevo observe que el enunciado no corresponde totalmente con el enunciado de las transparencias). 
 
 [Ver Código](t1e1.py)
 
@@ -71,11 +71,13 @@ Basándonos en el código del ejercicio anterior ahora la idea es generar un cua
 
 Versión avanzada usando variables para evitar repetir un valor y que sea más sencillo cambiar el lado y ángulo.
 
-[Ver Código](t1e3a.py)
+[Ver Código](t1e2a.py)
+
+Puede encontrar una explicación en el siguiente [vídeo](https://drive.google.com/file/d/1P3bCPyyhSbcXakGDfP9aREf0nd7l0B1n/view?usp=sharing) (también puede encontrar una versión avanzada usando bucles en este [vídeo](https://drive.google.com/file/d/1P3bCPyyhSbcXakGDfP9aREf0nd7l0B1n/view?usp=sharing)).
 
 Versión avanzada usando adicionalmente bucles.
 
-[Ver Código](t1e3b.py)
+[Ver Código](t1e2b.py)
 
 ## Ejercicio 3: robot-tortuga (en Python): Pentagono
 
