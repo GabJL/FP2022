@@ -95,3 +95,5 @@ Aquí el ángulo vuelve a ser 90, pero el valor del tamaño del lado hay que cam
 
 La variante con bucles en este caso es un poco diferente a las anteriores porque ahora la parte que se repite debe abarcar más instrucciones (hasta cambiar de lado)
 
+[Ver Código](t1e4n.py)
+
