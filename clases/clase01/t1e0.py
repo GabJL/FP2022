@@ -1,4 +1,4 @@
-n = int(input("Dime el alto de la figura: "))
+n: int = int(input("Dime el alto de la figura: "))
 
 for i in range(1, n + 1):
     print(" " * (n - i), end="")
