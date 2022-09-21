@@ -1,0 +1,13 @@
+x: int = int(float(input("x = ")))
+y: int = int(input("y = "))
+c: str = input("c = ")
+
+print("x (", x, ") no es 0:", x != 0)
+print("x (", x, ") es un número par:", x%2 == 0)
+print("x (", x, ") es un número positivo de tres dígitos:", x > 99 and x < 1000)
+print("x (", x, ") termina en dos ceros:", x%100 == 0 and x != 0)
+print("x (", x, ") no está en [10, 50]:", x < 10 or x > 50)
+print("Ni x (", x, ") ni y (", y, ") son mayores de 10:", x <= 10 and y <= 10)
+print("c (", c, ") es una letra mayúscula:", c >= "A" and c <= "Z")
+print("c (", c, ") es una letra:", (c >= "A" and c <= "Z") or (c >= "a" and c <= "z"))
+print("c (", c, ") es una vocal minúscula:", c == "a" or c == "e" or c == "i" or c == "o" or c == "u")
