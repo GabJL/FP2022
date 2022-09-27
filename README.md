@@ -13,6 +13,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 3
 * [Clase 4 (21/09)](clases/clase04/clase04.md): Condiciones lógicas. Ejercicios. Introducción a las sentencias de selección.
+* [Clase 5 (27/09)](clases/clase05/clase05.md): Sentencias de selección.
 
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
