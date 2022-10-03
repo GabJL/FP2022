@@ -1,7 +1,7 @@
 peso: float = float(input("Indique su peso (en kg): "))
 altura: float = float(input("Indique su altura (en m): "))
 
-imc = peso / altura ** 2
+imc: float = peso / altura ** 2
 
 if imc < 16:
     información = "Ingrese en el hospital"
