@@ -17,3 +17,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 6 (28/09)](clases/clase06/clase06.md): Repaso de las sentencias de selección especialmente prestando atención a la sentencia de selección múltiple. También se empezó con la sentencia de repetición `while`.
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
+* [Práctica 2](prácticas/práctica02/práctica02.md): Sentencias de selección.
