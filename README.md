@@ -16,6 +16,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 5 (27/09)](clases/clase05/clase05.md): Sentencias de selección.
 * [Clase 6 (28/09)](clases/clase06/clase06.md): Repaso de las sentencias de selección especialmente prestando atención a la sentencia de selección múltiple. También se empezó con la sentencia de repetición `while`.
 * [Clase 7 (04/10)](clases/clase07/clase07.md): Seguimos practicando la sentencia de repetición `while`.
+* [Clase 8 (05/10)](clases/clase08/clase08.md): Vemos el segundo tipo de sentencia de repetición, el bucle `for` y hacemos ejercicios: cambiando los rangos del bucle, ejercicios de figuras y ejercicios cortos (entre los que se incluye el factorial, si un número es primo o si un número es perfecto)..
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
 * [Práctica 2](prácticas/práctica02/práctica02.md): Sentencias de selección.
