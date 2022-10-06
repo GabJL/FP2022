@@ -88,11 +88,13 @@ Bastante similar al ejercicio previo pero ahora hay que generar números del 1 a
 ## Es primo
 *Averiguar si un número dado es primo. Un número es primo si solo tiene como divisores al 1 y el mismo.*
 
-En este caso la idea es generar todos los números entre 1 y el número y comprobar cuántos son divisores del número. Si hay más de dos, no será primo
+En este caso la idea es generar todos los números entre 2 y el número (sin incluirlo) y comprobar cuántos son divisores del número. Si hay alguno, no será primo. 
+
+Solución con contador:
 
 [[Ver código](t3e35.primo1.py)]
 
-Una solución más eficiente es ir de 2 al número/2 y en cuanto encuentre un divisor paro y digo que no es primo, si llego al final sí es primo. En este caso al ser un bucle indetermiista hay que emplear un bucle `while`:
+Solución con centinelas (bool):
 
 [[Ver código](t3e36.primo2.py)]
 
