@@ -112,9 +112,9 @@ La idea de todos estos ejercicios es practicar los bucles anidados por lo que ev
 * Tendremos un bucle externo que se encarga de dibujar las líneas
 * De forma interna hay que pintar cada línea y actualizar las variables para cada línea.
 * Hay que decidir qué forma cada línea. Por ejemplo la cuarta línea está formada por: muchos asteriscos + muchoes espacios + nuchos asteriscos + salto de línea:
-  *  Muchos asteriscos: ```for i in range(num_asteriscos): print("*", end="")
-  *  Muchos espacios: ```for i in range(num_espacios): print(" ", end="")
-  *  Salto de línea: ```print()```
+  *  Muchos asteriscos: `for i in range(num_asteriscos): print("*", end="")`
+  *  Muchos espacios: `for i in range(num_espacios): print(" ", end="")`
+  *  Salto de línea: `print()`
 * Ahora hay que decidir como inicializar las variables que controlan los bucles y como cambian en cada línea. En el mismo ejemplo de antes:
   *  `num_asteriscos` empieza con 1 y cada vez que cambiemos de línea sumamos 1 (en cada lado)
   *  `num_espacios` empieza con 2\*n - 2 (si n es la altura) y cada línea se decrementa en 2
