@@ -15,7 +15,7 @@
 
 *__OBJETIVOS:__ Realizar un bucle determinista (`for`) y usando un contador que depende de una condición.*
 
-[[Ver códigp](p3e01.notas1.py)]
+[[Ver códigpo(p3e01.notas1.py)]
  
 ## [p3e02.notas2.py] (★✰✰✰✰) 
 *Haga una copia del programa previo y modifícalo para que calcule la nota media de los alumnos aprobados.  Ejemplo:*
@@ -32,7 +32,7 @@
 
 *__OBJETIVOS:__ Uso de acumuladores.*
  
-[[Ver códigp](p3e02.notas2.py)]
+[[Ver código](p3e02.notas2.py)]
 
 ## [p3e03.notas3.py] (★★★✰✰) 
 *Modifique el programa previo para que, en vez de ser un número fijo de notas, acabe cuando se introduzca una nota inválida (fuera del rango \[0,10\]). Ejemplo:*
@@ -59,7 +59,7 @@ while condición: # Si la nota es correcta
  Leer otra nota 
 ```
 
-[[Ver códigp](p3e03.notas3.py)]
+[[Ver código](p3e03.notas3.py)]
 
 ## [p3e04.notas4.py] (★★★✰✰) 
 *Modifique el programa previo para que almacene la mejor nota. Ejemplo:*
@@ -80,7 +80,7 @@ while condición: # Si la nota es correcta
 
 *__NOTA__: Debido a que las notas deben estar en un rango, es fácil inicializar la mejor, pero intente pensar alguna forma de inicializar ese valor sin depende de saber que los valores están en ese rango.*
 
-[[Ver códigp](p3e04.notas4.py)]
+[[Ver código](p3e04.notas4.py)]
 
 ## [p3e05.figura.py] (★★★★✰) 
 *Realice un programa que lea la altura de la figura (realmente la altura representa media figura) y la dibuje tal como muestra el ejemplo:*
@@ -101,7 +101,7 @@ while condición: # Si la nota es correcta
  
 *__NOTAS__: Divida la figura en dos sub-figuras y resuélvalos por separado.*
 
-[[Ver códigp](p3e05.figura.py)]
+[[Ver código](p3e05.figura.py)]
 
 
 ## [p3e07.mcm.py]  (★★★✰✰)  
@@ -117,4 +117,4 @@ El mcm es 60
  
 *__NOTA__:  Haga  un  bucle  que  vaya  generando  números  cada  vez  más  grandes  hasta  encontrar  uno  que  cumpla  la condición.*
 
-[[Ver códigp](p3e06.mcm.py)]
+[[Ver código](p3e06.mcm.py)]
