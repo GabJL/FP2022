@@ -20,3 +20,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
 * [Práctica 2](prácticas/práctica02/práctica02.md): Sentencias de selección.
+* [Práctica 3](prácticas/práctica03/práctica03.md): Sentencias de repetición I.
