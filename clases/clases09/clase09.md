@@ -39,7 +39,7 @@ Esto es un ejemplo de ejercicio avanzado que, salvo que se tenga experiencia, ha
 ## EC5 (Ej 4 de Parcial 2020/2021)
 *Hacer programas que pida 2 números enteros al usuario (a y b). Calcular el máximo común divisor de ambos. Para ello encontrar el menor de los dos, menor, y recorrer hacia abajo hasta encontrar el número que los divide a ambos. Si no lo hubiera terminaría en 1, que siempre divide. Por ejemplo: 15, 9 → 3; 8, 4 → 4; 3, 3 → 3*
 
-Con for: [[Ver código](códigos/EC5_for.py)]
+Con for: [[Ver código](EC5_for.py)]
 
 Con while: [[Ver código](EC5_while.py)]
 
