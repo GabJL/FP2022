@@ -1,4 +1,4 @@
-# Clase 11: 8 de noviembre de 2021
+# Clase 11: 19 de octubre de 2022
 
 En esta clase seguimos el tema de funciones. Pero primero vimos como recorrer las letras de un `string`. Luego vimos cómo hacer procedimientos, cómo hacer funciones que devuelven varios parámetros, cuál es el ámbito de las variables y la mejor forma de estructurar un programa. A continuación se muestran los código de esta parte del tema (aunque no todos los hicimos en clase)
 

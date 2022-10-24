@@ -1,4 +1,4 @@
-# Clase 10: 18 de octubre de 2021
+# Clase 10: 18 de octubre de 2022
 
 En esta clase se introdujo la necesidad de dividir el código en pequeños trozos para facilitar su escritura y su reutilización. También vimos cómo se hacen y se usan funciones en python. Como ejemplo para ilustrar todo esto vimos el cálculo de un número combinatorio
 
