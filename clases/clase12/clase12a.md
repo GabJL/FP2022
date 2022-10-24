@@ -1,4 +1,4 @@
-# Clase 11: 24 de octubre de 2022
+# Clase 12: 24 de octubre de 2022
 
 En esta clase seguimos y acabamos el tema de funciones. Se hizo una serie de ejercicios básicos para practicar los conceptos de funciones.
 

@@ -1,4 +1,4 @@
-# Clase 11: 24 de octubre de 2022
+# Clase 12: 24 de octubre de 2022
 
 En esta clase se introdujo el concepto de lista: conjunto de valores accesibles por índice.
 
