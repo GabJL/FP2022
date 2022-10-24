@@ -37,7 +37,7 @@ En esta clase seguimos y acabamos el tema de funciones. Se hizo una serie de eje
 
 *__Objetivos:__ Funciones que no reciben parámetros.*
 
-[[Ver código](EC5.py)]
+[[Ver código](EC4.py)]
 
 ## Ejercicio de clase 5 (EC5)
 *__Función:__ recibe un número X y escribe por pantalla todos los números entre 1 y X.*
