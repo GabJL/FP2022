@@ -1,4 +1,4 @@
-# Fundamentos de la Progrmación
+# Fundamentos de la Programación
 En este repositorio se irán subiendo los códigos desarrollados durante la docencia de la asignatura Fundamentos de la Programación (Grupo A - Ingeniería de la Salud - UMA).
 
 ## Clases
