@@ -26,6 +26,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 5
 * [Clase 12 (24/10)](clases/clase12/clase12b.md): Conceptos de lista y acceso (rango)
+* [Clase 13 (25/10)](clases/clase13/clase13.md): Recorridos en listas y operaciones de creación de listas (I).
 
 
 ## Prácticas
