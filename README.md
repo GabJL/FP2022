@@ -28,3 +28,6 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Práctica 2](prácticas/práctica02/práctica02.md): Sentencias de selección.
 * [Práctica 3](prácticas/práctica03/práctica03.md): Sentencias de repetición I.
 * [Práctica 4](prácticas/práctica04/práctica04.md): Sentencias de repetición II.
+
+## Evaluación del curso
+* [Parcial 1](evaluación/parcial1/parcial1.md): Primer parcial (temas 1-3)
