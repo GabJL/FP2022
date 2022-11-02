@@ -1,4 +1,4 @@
-# Clase 9: 11 de octubre de 2021
+# Clase 9: 11 de octubre de 2022
 
 En esta clase hicimos un ejercicio avanzando como el de los 12 y después se resolvió ejercicios de parciales de otros años
 

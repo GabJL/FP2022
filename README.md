@@ -1,4 +1,4 @@
-# Fundamentos de la Progrmación
+# Fundamentos de la Programación
 En este repositorio se irán subiendo los códigos desarrollados durante la docencia de la asignatura Fundamentos de la Programación (Grupo A - Ingeniería de la Salud - UMA).
 
 ## Clases
@@ -22,6 +22,12 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 4
 * [Clase 10 (18/10)](clases/clase10/clase10.md): Introducción a los subprogramas.  Creación de funciones y procedimientos. Ejercicios
 * [Clase 11 (19/10)](clases/clase11/clase11.md): Recorrido de `str`. Procedimientos. Funciones que devuelven varios valores. Ámbitos. Ejercicios
+* [Clase 12 (24/10)](clases/clase12/clase12a.md): Ejercicios simples de funciones repasando todos los conceptos
+
+### Tema 5
+* [Clase 12 (24/10)](clases/clase12/clase12b.md): Conceptos de lista y acceso (rango)
+* [Clase 13 (25/10)](clases/clase13/clase13.md): Recorridos en listas y operaciones de creación de listas (I).
+
 
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
