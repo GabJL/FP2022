@@ -30,7 +30,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 14 (08/11)](clases/clase14/clase14.md): Ejercicios con listas (incluyendo algunos más complejos).
 
 ### Tema 6
-* [Clase 15 (09/11)](clases/clase15/clase15.md): Operaciones sobre textos. 
+* [Clase 15 (09/11)](clases/clase15/clase15.md): El tipo string, operaciones sobre string y dividir en trozos. 
 
 
 ## Prácticas
