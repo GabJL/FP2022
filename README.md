@@ -33,6 +33,8 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 15 (09/11)](clases/clase15/clase15.md): El tipo string, operaciones sobre string y dividir en trozos. 
 * [Clase 16 (14/11)](clases/clase16/clase16.md): f-string. Ejercicios sobre textos 
 
+### Tema 7
+* [Clase 17 (16/11)](clases/clase17/clase17.md): f-string. Ejercicios sobre textos 
 
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
