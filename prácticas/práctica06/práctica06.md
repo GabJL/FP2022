@@ -69,8 +69,6 @@
 6.	*Si no ganó: borre la pantalla y muestre el muñeco de palo ya completo*
 7.	*Muestre el título de la película a adivinar*
 
-[[Ver Código Final](p6e06.ahorcado.py)]
-
 [[Ver Código inicial](p6e06.hangman-original.py)]
 
 [[Ver utils_hangman.py](utils_hangman.py)]
