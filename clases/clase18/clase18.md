@@ -31,7 +31,7 @@ pagos = [
 *En el fichero `songs.txt` tiene datos de las canciones más escuchadas de Spotify durante este año. De cada canción tenemos la siguiente información:*
 
 * `'artist_names'`: *lista con los cantantes de la canción (list(str))*
-* `'∂∂∂artist_names'`: *lista con los cantantes de la canción (list(str))*
+* `'artist_names'`: *lista con los cantantes de la canción (list(str))*
 * `'track_name'`: *nombre de la canción (str)*
 * `'peak_rank'`: *posición más alta conseguida en el ranking semanal (int)*
 * `'weeks_on_chart'`: *veces que ha estado en el ranking semanal (int)*
