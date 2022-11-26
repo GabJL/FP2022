@@ -13,6 +13,5 @@ Salud: dict = {
   "Álgebra lineal": [0.48, 0.44, 0.46, 0.54, 0.61, 0.41, 0.51]
 }
 
-
 # Ejercicio 4
 peli = "Spider-Man: No Way Home#Jon Wa#Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon#Action, Adventure, Fantasy#2021 8.3 148 804.75"
