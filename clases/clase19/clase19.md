@@ -1,4 +1,4 @@
-# Clase 19: 20 de diciembre de 2021
+# Clase 19: 28 de noviembre de 2022
 
 En este clase vimos cómo calcular el mínimo valor (o clave) de un diccionario. También vimos como trabajar cuando un campo de un diccionario almacena una lista. Finalmente, vimos de manera informal cómo leer un fichero y seguimos repasando cómo trabajar con una lista de diccionarios.
 
