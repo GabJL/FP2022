@@ -47,7 +47,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Práctica 4](prácticas/práctica04/práctica04.md): Sentencias de repetición II.
 * [Práctica 5](prácticas/práctica05/práctica05.md): Subprogramas y listas.
 * [Práctica 6](prácticas/práctica06/práctica06.md): String.
-* [Práctica 7](prácticas/práctica07/práctica07.md): Listas e introducción a ficheros.
+* [Práctica 7](prácticas/práctica07/práctica07.md): Diccionarios e introducción a ficheros.
 
 ## Evaluación del curso
 * [Parcial 1](evaluación/parcial1/parcial1.md): Primer parcial (temas 1-3)
