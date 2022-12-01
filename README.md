@@ -38,6 +38,8 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 18 (22/11)](clases/clase18/clase18.md): Ejercicios de creación de diccionarios. Listas de Diccionario. Ejercicio de Spotify.
 * [Clase 19 (28/11)](clases/clase19/clase19.md): Ejercicios de máximos y mínimos en diccionarios. Diccionarios de listas. Ejercicio de Películas.
 
+## Tema 8
+* [Clase 20 (29/11)](clases/clase20/clase20.md): Introducción a ficheros. Ejercicios de ficheros.
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
 * [Práctica 2](prácticas/práctica02/práctica02.md): Sentencias de selección.
@@ -45,6 +47,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Práctica 4](prácticas/práctica04/práctica04.md): Sentencias de repetición II.
 * [Práctica 5](prácticas/práctica05/práctica05.md): Subprogramas y listas.
 * [Práctica 6](prácticas/práctica06/práctica06.md): String.
+* [Práctica 7](prácticas/práctica07/práctica07.md): Listas e introducción a ficheros.
 
 ## Evaluación del curso
 * [Parcial 1](evaluación/parcial1/parcial1.md): Primer parcial (temas 1-3)
