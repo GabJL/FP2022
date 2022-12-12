@@ -12,11 +12,13 @@ def lee_notas(nombre_fichero: str) -> dict:
     f.close()
     return alumnos
 
+
 def nota_media(notas: list) -> float:
     suma: float = 0
     for nota in notas:
         suma += nota
     return suma/len(notas)
+
 
 def alumno_nota_mas_alta(alumnos: dict) -> str:
     nombres: list = list(alumnos)
@@ -25,6 +27,7 @@ def alumno_nota_mas_alta(alumnos: dict) -> str:
         if nota_media(alumnos[alumno]) > nota_media(alumnos[mejor_alumno]):
             mejor_alumno = alumno
     return mejor_alumno
+
 
 # Programa principal
 alumnos: dict = lee_notas("notas.txt")

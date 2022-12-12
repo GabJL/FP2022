@@ -10,8 +10,8 @@ def intersección(l1: list, l2: list) -> list:
                 menor = veces_l2
             for i in range(menor):
                 res.append(elemento)
-            
     return res
+
 
 def intersección2(l1: list, l2: list) -> list:
     res: list = []
@@ -20,6 +20,7 @@ def intersección2(l1: list, l2: list) -> list:
             res.append(elemento)
             l2.remove(elemento)
     return res
+
 
 # Programa principal
 print(intersección2([1,2], [2,4])) # [2]

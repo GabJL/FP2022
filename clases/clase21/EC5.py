@@ -14,6 +14,7 @@ def leer_secuencias(nombre_fichero: str) -> dict:
     f.close()
     return secuencias
 
+
 def tienen_secuencia(secuencias: dict, subsec: str) -> list:
     lista: list = []
     for nombre, secuencia in secuencias.items():
@@ -21,6 +22,9 @@ def tienen_secuencia(secuencias: dict, subsec: str) -> list:
             lista.append(f"{nombre} -> {secuencia}")
     return lista
 
+
+# Programa principal
 seqs: dict = leer_secuencias("seq.txt")
 print(seqs)
-print(tienen_secuencia(seqs, "AAGG")) #['Glaucocystis', 'Macrocystis pyrifera']
+print(tienen_secuencia(seqs, "AAGG")) # ['Glaucocystis', 'Macrocystis pyrifera']
+
