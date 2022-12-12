@@ -40,6 +40,8 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ## Tema 8
 * [Clase 20 (29/11)](clases/clase20/clase20.md): Introducción a ficheros. Ejercicios de ficheros.
+* [Clase 21 (12/12)](clases/clase21/clase21.md): Ejercicios de examen de otros cursos.
+* 
 ## Prácticas
 * [Práctica 1](prácticas/práctica01/práctica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
 * [Práctica 2](prácticas/práctica02/práctica02.md): Sentencias de selección.
