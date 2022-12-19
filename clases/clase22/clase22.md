@@ -55,7 +55,7 @@ print(simplificar([[1,3], [7,9], [2,4], [6,8]])) # [[1,4], [6,9]]
 3: K. Benzema – Real Madrid: 2
 ```
 
-*Debe devolver un diccionario con cuántos goles a metido cada jugador del equipo indicado. Por ejemplo, para `leer_datos(“fichero.txt”, “Real Madrid”)` devolvería `{“K. Benzema”: 3, “L. Modrić”: 1, “Vinicius Jr.”: 3}`.*
+*Debe devolver un diccionario con cuántos goles a metido cada jugador del equipo indicado. Por ejemplo, para `leer_datos(`[“futbol.txt”]("futbol.txt")`, “Real Madrid”)` devolvería `{“K. Benzema”: 3, “L. Modrić”: 1, “Vinicius Jr.”: 3}`.*
 
 *Partiendo del código previo (si no lo sacó copie el diccionario del ejemplo previo), desarrolle una función `def máximos_goleadores(goleadores: dict) -> list` que reciba los goleadores de un equipo (diccionario) y nos devuelva una lista con los nombres de los jugadores que marcaron más goles. Note que pueden ser varios los que tengan el máximo número de goles del equipo. Para el ejemplo anterior devolvería: `[“K. Benzema”, “Vinicius Jr.”]`*
 
