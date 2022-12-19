@@ -61,7 +61,7 @@ print(simplificar([[1,3], [7,9], [2,4], [6,8]])) # [[1,4], [6,9]]
 
 [Ver código](ec4%20sol.py)
 
-##EC5 
+## EC5 
 *Se tiene la información de las películas del año 2017 en un fichero [cine2017.txt](cine2017.txt) de forma que detrás del título, que está en una línea, se tiene un resumen en varias líneas. La línea del título empieza por el carácter '*' y a continuación el resto de la línea es el título de la misma:*
 
 ```text
