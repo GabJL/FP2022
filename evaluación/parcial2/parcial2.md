@@ -8,7 +8,7 @@ print(cima([1, 2, 1, 3, 1, 5])) # -> 2
 print(cima([1, 2, 3, 4])) # -> 0
 ```
 
-[[Ver Código](1.cima.py)]
+[[Ver Código](1.cimas.py)]
 
 # Ejercicio 2
 *Un polinomio `p(x) = anxn + an−1xn−1 + . . . + a1x + a0` se puede representar en un diccionario como `{n:an, .., 0:a0}`. Por ejemplo: `3x^2 − 2x + 5` sería `{2:3, 1:-2, 0:5}`. Hacer una función que reciba dos polinomios y los sume y devuelva el resultado: `def sumPol(a, b)` Por ejemplo para los polinomios: `3x^2 − 2` y `5x2 − x + 3` debería dar: `8x^2 − x + 1`. Nuestra función recibiría: `{2:3, 0:-2}` y `{2:5, 1:-1, 0:3}` y devolvería: `{2:8, 1:-1, 0:1}`. Probar con este ejemplo e imprimir el resultado devuelto por la función.*
@@ -39,4 +39,4 @@ Paseo del Parque - Plaza Marina -> Av. de Velázquez - Azucarera : Línea A
 Córdoba -> Facultad de Ciencias : None
 ```
 
-[[Ver Código](3.bus.py)]
+[[Ver Código](3.buses.py)]
