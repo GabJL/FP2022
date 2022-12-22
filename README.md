@@ -55,3 +55,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ## Evaluación del curso
 * [Parcial 1](evaluación/parcial1/parcial1.md): Primer parcial (temas 1-3)
+* [Parcial 2](evaluación/parcial2/parcial2.md): Segundo parcial
